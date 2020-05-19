@@ -1,0 +1,42 @@
+export default {
+    black: '#000',
+    white: '#fff',
+    lighter: '#eee',
+    light: '#ddd',
+    regular: '#999',
+    dark: '#666',
+    darker: '#333',
+    darkGray: '#192428',
+    lightGray: '#dedcce',
+    gray: '#9c9c9c',
+
+    molokai: {
+        orchid: '#f92672',
+        ratinality: '#66d9ef',
+        hennink: '#a6e22e',
+        pumpkin: '#fd971f',
+    },
+    monokai:{
+        bg: '#272822',
+        bg_h: '#3e3d32',
+        bg_c: '#75715e',
+        fg: '#f8f8f2',
+        yellow: '#e6db74',
+        orange: '#fd971f',
+        red: '#f92672',
+        magenta: '#fd5ff0',
+        violet: '#ae81ff',
+        blue: '#66d9ef',
+        cyan: '#a1efe4',
+        green: '#a6e22e',
+    },
+    
+    primary: '#7a91ca',
+    secundary: '#444a5a',
+    success: '#a6e22e',
+    danger: '#f92672',
+
+    transparent: 'transparent',
+    darkTransparent: 'rgba(0,0,0, 0.6)',
+    whiteTransparent: 'rgba(255, 255, 255, 0.6)',
+};
